@@ -1,3 +1,5 @@
+A short video showing the prototype in action is provided: https://drive.google.com/file/d/12Fx1kp2AsuQkQ0iB52BA4xuIlW9dUWXZ/view?usp=sharing
+
 Project Description
 
 This project is a basic Lost & Found Tracker developed in Python, designed to help students report and recover lost items within a school environment. The system uses CSV files to store information about lost and found objects, making it simple to organize and access data.
